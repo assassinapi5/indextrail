@@ -39,11 +39,11 @@ function init() {
   var html = `
 <header class="nexmoe-nav">
     <div class="navSize">
-			<a href="/"><img class="avatar" src="https://i.loli.net/2021/02/05/PFUQedhVkCONnX7.jpg"/></a>
+			<a href="/"><img class="avatar" src="https://imgur.com/q7pZMG0"/></a>
 			<div class="nav_menu">
 				<ul class="menu_ul">
-					<li class="menu_li"><a href="https://telegram.dog/MajorHarry/" target="_blank">Telegram</a></li>
-					<li class="menu_li"><a href="https://www.harryizpro.ml/" target="_blank">HarryIzPro</a></li>
+					<li class="menu_li"><a href="https://t.me/confusedspermm" target="_blank">Telegram</a></li>
+					<li class="menu_li"><a href="https://itachi.itachiop1.workers.dev" target="_blank">𝙄𝙏𝘼𝘾𝙃𝙄 𝙐𝘾𝙃𝙄𝙃𝘼 </a></li>
 				</ul>
 				<div class="nav_icon"></div>
 			</div>
